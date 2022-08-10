@@ -5,7 +5,7 @@ This Simple Responsive Landing Page for computer Addition
 
  ## Visit Site :boom:
  
- **[Click here](https://youssef-ashraf-ramadan.github.io/Responsive-Techno-Site-/)**
+ **[Click here](https://youssef-ashraf-ramadan.github.io/Responsive-Techno-Site/)**
 
 
 ## Used Skills: :exclamation:
